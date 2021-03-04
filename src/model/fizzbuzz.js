@@ -13,5 +13,6 @@ module.exports = (number) => {
     }
   }
 
+  result = result;
   return result;
 }
